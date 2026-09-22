@@ -17,6 +17,6 @@ La aplicación se encarga de analizar y ordenar los datos que extrae de una web 
 
 ## Configuración 
 
-![Captura del enlace por ssh con github](configuracion.jpeg)
+![Captura del enlace por ssh con github](configuracion.png)
 
 
