@@ -1,4 +1,4 @@
-# nextBar
+# GestionAmigos
 
 ## Descripción del Problema
 
