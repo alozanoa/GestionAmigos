@@ -1,26 +1,20 @@
-# HomeSync
+# Unicheck
 
 ## Descripción del Problema
 
-Soy una madre con familia numerosa y tengo el siguiente problema, me cuesta organizarme con mi pareja para las tareas de la casa y de la familia en general ya que ambos trabajamos. Varias veces nos hemos olvidado de alguna actividad extracurricular de nuestros hijos o en el último momento nos hemos dado cuenta de que ambos estamos ocupados y no podemos llevar a nuestro hijo a la actividad que tiene. Además, para tema limpieza y de la compra solemos llevar un descontrol de que cosas ha comprado la otra persona o que tareas de limpieza deberíamos realizar.
+Los estudiantes de Bachillerato, sobre todo en el último año, siempre se encuentran con la preocupación de si con las notas que tienen ahora mismo tienen la posibilidad de entrar en la carrera de sus sueños o no, sobre todos aquellos que suelen tener una nota baja. Además cada carrera tiene su ponderación dependiendo de la notas por lo que le díficulta saber que deberían sacar para en cada asignatura para poder entrar.
 
-## Funcionamiento previsto
+## Datos necesarios
 
-Para solucionar el problema crearemos una página web donde tendremos tres funcionalidades:
+Los datos necesarios para resolver este problema los obtendremos tando de los usuarios que vayan a consultar, como obteniendolos de páginas web publica.
 
-- Un "calendario" interactivo donde los usuarios podrán añadir las actividades del día, pudiendolas clasificar como "Actividades de hijos" o de mama o de papa.
+## Funcionamiento previsto del problema
 
-- Un sección de tareas a realizar del día, que la web se encargará de asignar las tareas equitativamente entre los padres(usuarios) dependiendo de las horas ocupadas del día. Además por cada "Actividades de hijos" se podrá crear una o dos tarea automaticamente en motivo de llevar a "x" .
-
-- Y una ultima sección para la compra donde ambos podrán añadir productos o quitar productos de la lista.
-
-Todos los datos seran introduccidos por los usuarios ya sea redactado en un txt o por la misma interfaz.
+Nuestro programa necesitará extraer la información de los boletines de nota de los usuarios, además de extraer la información importante de los html donde se encuentra la información de las universidades. También debería analizar y calcular con la información ya obtenida la probabilidad que tiene un usuario de entrar dependiendo de las opciones que haya elegido
 
 ## Juego de Rol
 
 ![Fotografía de la tarjeta de rol cliente](cliente.jpeg)
-
-![Fotografía de la tarjeta de rol desarrollador](desarrollador.jpeg)
 
 ## Configuración 
 
