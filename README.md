@@ -2,7 +2,7 @@
 
 ## Descripción del Problema
 
-Los estudiantes de Bachillerato, sobre todo en el último año, siempre se encuentran con la preocupación de si con las notas que tienen ahora mismo tienen la posibilidad de entrar en la carrera de sus sueños o no, sobre todos aquellos que suelen tener una nota baja. Además cada carrera tiene su ponderación dependiendo de la notas por lo que le díficulta saber que deberían sacar para en cada asignatura para poder entrar.
+Los estudiantes de Bachillerato, sobre todo en el último año, siempre se encuentran con la preocupación de si con las notas que tienen ahora mismo tienen la posibilidad de entrar en la carrera de sus sueños o no, sobre todos aquellos que suelen tener una nota baja. Además cada carrera tiene su ponderación dependiendo de la notas por lo que le díficulta saber que deberían sacar  en cada asignatura para poder entrar.
 
 ## Datos necesarios
 
